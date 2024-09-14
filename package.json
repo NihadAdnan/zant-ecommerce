@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "A eccomerce project by ZANT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZANT TechBD",
+  "license": "ISC"
+}
